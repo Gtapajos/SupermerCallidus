@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cfTuxbjZenuV1a8xwcM8TBOJQVBpv4XXP0726i6GG1uGEnByBy/xRMcRrZ8VSEYxA/l1OVU2C5mvaTzXsKC8Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\callidus\\source\\repos\\SupermerCallidus\\SupermerCallidus.iOS\\SupermerCallidus.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\callidus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\callidus\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\callidus\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

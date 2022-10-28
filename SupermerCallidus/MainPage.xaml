@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SupermerCallidus.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout>
+        <Frame BackgroundColor="#016064" Padding="24" CornerRadius="0">
+            <Label Text="SupermerCallidus" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="O melhor mercado da Via Láctea" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Pão quentinho... A TODA HORA!!!" FontSize="16" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+        </Label>
+        <Image Source="Callidus_image" WidthRequest="150" />
+        <Entry x:Name="etComando" Keyboard="Text" Placeholder="Informe o produto a remover ou adicionar" />
+        <Button Text="Adicionar Produto" Clicked="Button_Clicked"/>
+        <Button Text="Remover Produto" Clicked="Button_Clicked"/>
+        <Button Text="Ver Lista" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>

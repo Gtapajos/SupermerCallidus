@@ -1,0 +1,16 @@
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\bin\Debug\netstandard2.0\SupermerCallidus.deps.json
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\bin\Debug\netstandard2.0\SupermerCallidus.dll
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\bin\Debug\netstandard2.0\SupermerCallidus.pdb
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.csproj.AssemblyReference.cache
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.AssemblyInfoInputs.cache
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.AssemblyInfo.cs
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.csproj.CoreCompileInputs.cache
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.dll
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\refint\SupermerCallidus.dll
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\SupermerCallidus.pdb
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\ref\SupermerCallidus.dll
+C:\Users\callidus\source\repos\SupermerCallidus\SupermerCallidus\obj\Debug\netstandard2.0\Lista_Prods.xaml.g.cs
